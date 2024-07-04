@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px    ;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+background-color: rgb(185, 185, 185);
+
+
+}
+
+
+#a {
+    color: white;
+background: gray;
+padding: 10px  20px;
+margin: 20px;
+
+}
+
+#f {
+    color: white;
+}
+
+img {
+margin: 30px;
+}
+
+p {
+    font-size: large;
+}
+
+label {
+    font-size: large;
+}
+
+button {
+padding: 5px;
+width: 70px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

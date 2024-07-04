@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px    ;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+background-color: rgb(185, 185, 185);
+
+
+}
+
+
+#a {
+    color: white;
+background: gray;
+padding: 10px  20px;
+margin: 20px;
+
+}
+
+#f {
+    color: white;
+}
+
+table {
+width:90% ;
+border-collapse: collapse;
+margin:70px ;
+
+}
+
+td {
+border: 1px solid black;
+padding: 10px;
+text-align: center;
+width:50px ;
+height: 250px;
+}
+
+img {
+width: 130px;
+height:auto ;
+
+}
+
+
+
+
+
+
+
+
